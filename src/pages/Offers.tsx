@@ -100,6 +100,11 @@ export function Offers() {
       });
   }, [namespace]);
 
+//老子从来没碰过TS，你让我怎么写?
+//  if ({ locale } == "zh") {
+//    children={gameInfo.title + locale.showing_offers}
+//  }
+
   return (
     <Box display={"flex"} flexDirection={"column"}>
       {offers?.length === 0 ? (

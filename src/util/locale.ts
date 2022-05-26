@@ -135,7 +135,7 @@ export const rawLocale = {
     en: "Offers for ",
     ru: "Контент для ",
     es: "Contenido para ",
-    zh: "结果自 ",
+    zh: " 的附加类容",
   },
   sort_by: {
     en: "Sort by",
